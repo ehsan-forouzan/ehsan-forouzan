@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ehsan-forouzan
+- 👀 I’m interested in Bot for Trading in forex market.
+- 🌱 I’m currently learning python.
